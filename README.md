@@ -2,6 +2,8 @@
 
 Bem-vindo ao projeto "Aprimore seu Reading em Inglês"! Este projeto foi desenvolvido como parte do bootcamp Santander / DIO com o objetivo principal de demonstrar a criação de componentes web reutilizáveis usando Web Components.
 
+![Art](readme.png)
+
 ## 📝 Visão Geral
 
 Neste projeto, você encontrará uma página da web que utiliza Web Components para criar cards componentizados, cada um representando um artigo ou notícia em inglês. Cada card é um exemplo de um componente web autônomo, que pode ser facilmente reutilizado em diferentes partes de um projeto maior.
