@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Segoe UI", sans-serif;
+    background-color: rgba(197, 194, 194, 0.274);
+  }
+
+  body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  body > h1{
+    padding: 1rem;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+    background-color: rgba(197, 194, 194, 0.058);
+    font-size: 3rem;
+  }
+
+  .container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 60%;
+    gap: .7rem;
+    background-color: rgba(234, 229, 229, 0.274);
+  }
+
+  .card_right{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
